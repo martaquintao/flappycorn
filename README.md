@@ -1,6 +1,6 @@
 # 🦄 Flappycorn
 
-A Flappy Bird clone with a twist — you play as a cute unicorn flying through rainbow curtains and flower stems.
+Made with my baby girl in mind: A Flappy Bird clone with a twist — you play as a cute unicorn flying through rainbow curtains and flower stems.
 
 Built entirely with vanilla HTML5 Canvas. No dependencies, no build step.
 
